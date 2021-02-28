@@ -1,6 +1,8 @@
-.body{
+
+body{
     margin: 0 auto;
 }
+
 .flags{
     background-color: black;
     height: 1000px;
@@ -12,6 +14,7 @@
 .country{
     width: 300px;
     height: 170px;
+    
 }
 .ukraine div:first-child{
     background-color: blue;
@@ -89,7 +92,7 @@
     width: 190px;
 }
 .blue_blocks{
-    background-color: mediumblue;
+    background-color: darkblue;
 }
 .right_inside_block{
     width:180px;

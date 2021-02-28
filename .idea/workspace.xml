@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="142a58a9-f074-43b6-950c-447b51cfa3c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Vlad_Benidovskyi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-1/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-1/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/assets/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/assets/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/assets/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/assets/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/assets/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/assets/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/assets/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/assets/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/assets/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/assets/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/assets/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/assets/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-2/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/task-1/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614457506256</updated>
-      <workItem from="1614457507394" duration="26904000" />
+      <workItem from="1614457507394" duration="28769000" />
     </task>
     <servers />
   </component>
